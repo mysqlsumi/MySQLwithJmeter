@@ -2,12 +2,15 @@
 How to do mysql benchmark test with Jmeter
 
 ## 0. Pre- Requisite (사전작업)
-### 1) Download and install Jmeter on your laptop such as Window, Mac, etc. 
+### 1) Download and install Java 8+ on your Jmeter test server such as Window, Mac, etc. 
+[Download java](https://www.java.com/ko/download/)
+
+### 2) Download and install Jmeter. 
 [Download Jmeter](https://jmeter.apache.org/download_jmeter.cgi)
 
 
-### 2) Create a VCN for Network (네트워크를 위한 VCN 생성)
-[How to create a VCN](http://taewan.kim/oci_docs/10_quickstart/vcn/simple_vcn/)
+### 3) Create a VCN for Network (네트워크를 위한 VCN 생성)
+[Download MySQL Connector on Jemter side](https://www.mysql.com/products/connector/)
 
 
 
