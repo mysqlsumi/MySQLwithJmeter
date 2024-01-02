@@ -2,7 +2,7 @@
 How to do mysql benchmark test with Jmeter
 
 ## 0. Pre- Requisite (사전작업)
-### 1) Download and install Java 8+ on your Jmeter test server such as Window, Mac, etc. 
+### 1) Download and install Java 8+ on your Jmeter test server such as Window, Mac and etc. 
 [Download java](https://www.java.com/ko/download/)
 
 ### 2) Download and install Jmeter. 
@@ -14,7 +14,7 @@ How to do mysql benchmark test with Jmeter
 
 
 
-## 1. Migration MySQL on other cloud vendors or On-Prem to MDS OCI
+## 1. Set all parameters for MySQL testing on Jmeter 
 * Select MySQL DbaaS/On-Premiss MySQL Community Server to OCI MDS menu (아래 화면의 두번째 메뉴선택)
-<img width="821" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/84733143-8a70-4eec-92a5-db95afcefe21">
 
+![스크린샷 2023-10-24 오전 11 03 07](https://github.com/mysqlsumi/MySQLwithJmeter/assets/31054795/21da65cb-e816-422b-8e1f-7e1df0b213f2)
